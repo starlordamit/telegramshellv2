@@ -1,6 +1,6 @@
 import os
 
-TOKEN = os.environ.get("1804803062:AAEtGz4iN-_7VXqHSgR6jwzE_dHk4qzrSuo", '')
+TOKEN = os.environ.get("1802984769:AAFCihCptUpTXrSd51U7-sFELVvjor2mQ9M", '')
 
 ENABLED_USERS = os.environ.get("1188151881", '')
 ENABLED_USERS = {1188151881}
